@@ -22,7 +22,7 @@ end
 
 def using_last(array)
 
-array.first 
+array.using_last
 
 end
 
