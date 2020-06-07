@@ -1,5 +1,6 @@
 def using_include(array, element)
-array.include?("I")
+  planets = ["saturn", "earth", "venus", "jupiter"]
+array.include?("saturn")
 end
 
 def using_sort(array)
